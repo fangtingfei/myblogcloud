@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myblogcloud" />
+        <module name="myblogcloud-common" />
+        <module name="myblogcloud-common-db" />
+        <module name="myblogcloud-eureka" />
+        <module name="myblogcloud-gateway-web" />
+        <module name="myblogcloud-service-blog" />
+        <module name="myblogcloud-service-comment" />
+        <module name="myblogcloud-service-diary" />
+        <module name="myblogcloud-service-file" />
+        <module name="myblogcloud-service-search" />
+        <module name="myblogcloud-service-type-tag" />
+        <module name="myblogcloud-service-user" />
+        <module name="myblogcloud-web-admin" />
+        <module name="myblogcloud-web-visitor" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myblogcloud" target="1.8" />
+      <module name="myblogcloud-common" target="1.8" />
+      <module name="myblogcloud-common-db" target="1.8" />
+      <module name="myblogcloud-eureka" target="1.8" />
+      <module name="myblogcloud-eureka-2" target="1.8" />
+      <module name="myblogcloud-gateway" target="1.8" />
+      <module name="myblogcloud-gateway-web" target="1.8" />
+      <module name="myblogcloud-parent" target="1.8" />
+      <module name="myblogcloud-service" target="1.8" />
+      <module name="myblogcloud-service-blog" target="1.8" />
+      <module name="myblogcloud-service-comment" target="1.8" />
+      <module name="myblogcloud-service-diary" target="1.8" />
+      <module name="myblogcloud-service-file" target="1.8" />
+      <module name="myblogcloud-service-search" target="1.8" />
+      <module name="myblogcloud-service-type-tag" target="1.8" />
+      <module name="myblogcloud-service-user" target="1.8" />
+      <module name="myblogcloud-web" target="1.8" />
+      <module name="myblogcloud-web-admin" target="1.8" />
+      <module name="myblogcloud-web-visitor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="myblogcloud" options="" />
+      <module name="myblogcloud-common" options="-parameters" />
+      <module name="myblogcloud-common-db" options="-parameters" />
+      <module name="myblogcloud-eureka" options="-parameters" />
+      <module name="myblogcloud-eureka-2" options="-parameters" />
+      <module name="myblogcloud-gateway-web" options="-parameters" />
+      <module name="myblogcloud-service-blog" options="-parameters" />
+      <module name="myblogcloud-service-comment" options="-parameters" />
+      <module name="myblogcloud-service-diary" options="-parameters" />
+      <module name="myblogcloud-service-file" options="-parameters" />
+      <module name="myblogcloud-service-search" options="-parameters" />
+      <module name="myblogcloud-service-type-tag" options="-parameters" />
+      <module name="myblogcloud-service-user" options="-parameters" />
+      <module name="myblogcloud-web-admin" options="-parameters" />
+      <module name="myblogcloud-web-visitor" options="-parameters" />
+    </option>
+  </component>
+</project>

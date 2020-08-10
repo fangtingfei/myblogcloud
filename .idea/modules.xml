@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud.iml" filepath="$PROJECT_DIR$/myblogcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-common/myblogcloud-common.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-common/myblogcloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-common-db/myblogcloud-common-db.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-common-db/myblogcloud-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-eureka/myblogcloud-eureka.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-eureka/myblogcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-gateway/myblogcloud-gateway.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-gateway/myblogcloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-gateway/myblogcloud-gateway-web/myblogcloud-gateway-web.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-gateway/myblogcloud-gateway-web/myblogcloud-gateway-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-parent.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-blog/myblogcloud-service-blog.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-blog/myblogcloud-service-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-comment/myblogcloud-service-comment.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-comment/myblogcloud-service-comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-diary/myblogcloud-service-diary.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-diary/myblogcloud-service-diary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-file/myblogcloud-service-file.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-file/myblogcloud-service-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-search/myblogcloud-service-search.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-search/myblogcloud-service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-type-tag/myblogcloud-service-type-tag.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-type-tag/myblogcloud-service-type-tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-user/myblogcloud-service-user.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-service/myblogcloud-service-user/myblogcloud-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-web/myblogcloud-web.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-web/myblogcloud-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-web/myblogcloud-web-admin/myblogcloud-web-admin.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-web/myblogcloud-web-admin/myblogcloud-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblogcloud-parent/myblogcloud-web/myblogcloud-web-visitor/myblogcloud-web-visitor.iml" filepath="$PROJECT_DIR$/myblogcloud-parent/myblogcloud-web/myblogcloud-web-visitor/myblogcloud-web-visitor.iml" />
+    </modules>
+  </component>
+</project>
